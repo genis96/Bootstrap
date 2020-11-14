@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar-style {
+    box-shadow: 0 5px 10px #cdd1cb;
+}
+
+
+
