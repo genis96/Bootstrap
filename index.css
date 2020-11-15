@@ -16,12 +16,13 @@
 .contact-container {
     width: 50%;
     height: 70%;
+    font-size: 20px;
     padding: 5%;
-    background-color: rgb(232, 237, 241); 
+    background-color: rgb(246, 248, 250); 
+    border-radius: 3%;
     /* background-color: transparent; */
 }
 
 .btn-submit {
     width: 130px;
-
 }
