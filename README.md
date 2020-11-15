@@ -2,5 +2,5 @@
 
 Create a responsive portfolio using bootstrap. 
 
-![Screenshot](Screenshot1);
+![Screenshot](Screenshot_1.png)
 
