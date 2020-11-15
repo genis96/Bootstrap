@@ -8,5 +8,8 @@
     box-shadow: 0 5px 10px #cdd1cb;
 }
 
-
+.col {
+    margin-left: 3%;
+    margin-right: 3%;
+}
 
